@@ -1,2 +1,2 @@
-# java-aplicando-orientacao-objetos
+# Java
 Exemplos do curso "Java: aplicando a Orientação a Objetos" da Alura
